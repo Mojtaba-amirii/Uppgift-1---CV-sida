@@ -132,7 +132,6 @@ nav ul li {
   box-shadow: 0 3px 5px rgba(0.1, 0.1, 0.1, 0.1);
   padding: 20px;
   margin: 10px;
-
 }
 .scroll-up {
   position: fixed;
@@ -144,27 +143,27 @@ nav ul li {
   width: 30px;
 }
 
-.skills{
-  text-align:center;
+.skills {
+  text-align: center;
 }
-.skills img{
-  width:11rem;
-  height:11rem;
-  padding:1rem;
+.skills img {
+  width: 11rem;
+  height: 11rem;
+  padding: 1rem;
 }
-#html{
-  width:9.5rem;
-  height:9.5rem;
+#html {
+  width: 9.5rem;
+  height: 9.5rem;
 }
-#css{
-  transform:translateY(1rem);
-  height:11.3rem;
+#css {
+  transform: translateY(1rem);
+  height: 11.3rem;
 }
 
-.skills-wrapper{
+.skills-wrapper {
   background-color: var(--bg-color);
   border-radius: 11px;
-  box-shadow:0 3px 5px rgba(0.1, 0.1, 0.1, 0.1);
+  box-shadow: 0 3px 5px rgba(0.1, 0.1, 0.1, 0.1);
   padding: 20px;
   margin: 10px;
 }
@@ -245,8 +244,4 @@ footer {
   padding: 1.25rem;
   text-align: center;
   margin: 2rem 0 0;
-}
-
-@media screen and (max-width: 720px) {
-  /*changes reflects on screen with a width of 720px and below*/
 }
